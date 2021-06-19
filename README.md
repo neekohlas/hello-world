@@ -1,2 +1,3 @@
 # hello-world
 I'm learning python right now, so I wanted to create a space for saving / sharing my work.
+This is additional information I've added by using GitKraken.  It's part of the more-readme-edits branch, at least initially...
